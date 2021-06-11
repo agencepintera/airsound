@@ -1,0 +1,105 @@
+
+.leTout {
+    background-color: rgb(254, 209, 105);
+}
+
+h1 {
+    margin-top: 20px;
+    padding-top: 40px;
+    font-size: 30px;
+    text-align: start;
+    margin-left: 15px;
+}
+
+.texte {
+    display: flex;
+    margin-right: 5vw;
+    margin-left: 5vw;
+    height: fit-content;
+    line-height: 1.6;
+    margin-bottom: 120px;
+}
+
+.texte p {
+    text-align: justify;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.h2D {
+    margin-left: 40px;
+    color: rgb(235, 94, 37);
+    font-size: 30pt;
+}
+
+.h2G {
+    margin-left: 800px;
+    color: rgb(235, 94, 37);
+    font-size: 30pt;
+}
+
+.groupe1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.groupe1 p{
+    line-height: 1.6;
+}
+
+.groupe1 img{
+    width: 550px;
+    height: 550px;
+}
+
+.titreGras {
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+.ligne {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+
+.imageG img{
+    width: 450px;
+    height: 450px;
+    border: 4px rgb(235, 94, 37) solid;
+    margin-bottom: 50px;
+    object-fit: cover;
+    border-radius: 25px;
+}
+
+.imageG{
+    margin-left: 100px;
+}
+
+.imageD{
+    margin-right: 100px;
+}
+
+.paragrapheD {
+    margin-top: 120px;
+    margin-left: 50px;
+    margin-right: 250px;
+    font-size: 20px;
+    line-height: 1.6;
+}
+
+.imageD img{
+    width: 450px;
+    height: 450px;
+    border: 4px rgb(235, 94, 37) solid;
+    object-fit: cover;
+    border-radius: 25px;
+}
+
+
+.paragrapheG {
+    margin-top: 120px;
+    font-size: 20px;
+    margin-left: 250px;
+    line-height: 1.6;
+}
